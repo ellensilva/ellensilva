@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, NODE, REACT, and English
-- 👯 I’m looking for a new JOB
-- 🤔 I’m looking for help with Technical Product Manager
+- 🌱 I’m currently learning HTML, CSS, NODE, REACT, PHYTHON and English
 - 📫 How to reach me: ellenpessoal@gmail.com
 - 😄 Pronouns: She/her
 - ![image](https://github.com/ellensilva/ellensilva/assets/3883834/5e5acc8c-63f6-4c52-82f4-efc104852b80) ellensilva
